@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.abc{
+    color:white;
+    box-shadow: 4px 6px 2px 2px black; 
+    background-color: red;
+    transition-duration: 0.5s;
+    transform: scale(1.2,1.2);
+}
+.one{
+    height: 97vh;
+    width: 100%;
+    /* border: 1px solid #000; */
+    background-color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.two{
+    height: 65vh;
+    width:95% ;
+    border: 1px solid white;
+    display: flex;
+}
+.three{
+    height: 98%;
+    width: 9%;
+    background-color: white;
+    margin-left: 10px;
+}
+.four{
+    height: 45%;
+    width: 48%;
+    background-color:black;
+}
